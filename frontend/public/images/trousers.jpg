@@ -1,0 +1,9 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="32" fill="#101015"/>
+  <circle cx="170" cy="150" r="140" fill="#D3B06E" fill-opacity="0.08"/>
+  <path d="M280 140C280 96.9218 314.922 62 358 62H442C485.078 62 520 96.9218 520 140V184H280V140Z" fill="#212129"/>
+  <path d="M190 250L290 190L350 250H450L510 190L610 250L560 370L500 330V800H300V330L240 370L190 250Z" fill="#0B0B0F" stroke="#D3B06E" stroke-opacity="0.3" stroke-width="6"/>
+  <circle cx="400" cy="470" r="68" stroke="#D3B06E" stroke-opacity="0.5" stroke-width="6"/>
+  <text x="400" y="480" text-anchor="middle" fill="#F0D59A" font-size="42" font-family="Arial, sans-serif">V&amp;D</text>
+  <text x="400" y="860" text-anchor="middle" fill="#F0D59A" font-size="28" font-family="Arial, sans-serif">SIGNATURE TEE</text>
+</svg>

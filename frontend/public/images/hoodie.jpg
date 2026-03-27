@@ -1,0 +1,11 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="32" fill="#101015"/>
+  <circle cx="640" cy="140" r="170" fill="#D3B06E" fill-opacity="0.08"/>
+  <path d="M290 170C290 109.249 339.249 60 400 60C460.751 60 510 109.249 510 170V220H290V170Z" fill="#2A2A32"/>
+  <path d="M210 250L300 190L350 250H450L500 190L590 250L540 820H260L210 250Z" fill="#0B0B0F" stroke="#D3B06E" stroke-opacity="0.35" stroke-width="6"/>
+  <path d="M350 250L400 355L450 250" stroke="#D3B06E" stroke-opacity="0.5" stroke-width="6"/>
+  <line x1="400" y1="250" x2="400" y2="820" stroke="#26262E" stroke-width="6"/>
+  <rect x="310" y="450" width="60" height="105" rx="12" stroke="#3E3E46" stroke-width="5"/>
+  <rect x="430" y="450" width="60" height="105" rx="12" stroke="#3E3E46" stroke-width="5"/>
+  <text x="400" y="860" text-anchor="middle" fill="#F0D59A" font-size="28" font-family="Arial, sans-serif">MIDNIGHT JACKET</text>
+</svg>

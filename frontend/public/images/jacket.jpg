@@ -1,0 +1,12 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="32" fill="#101015"/>
+  <circle cx="180" cy="160" r="150" fill="#D3B06E" fill-opacity="0.08"/>
+  <path d="M250 240C250 157.157 317.157 90 400 90C482.843 90 550 157.157 550 240V290H250V240Z" fill="#181820" stroke="#4A3B1B" stroke-width="5"/>
+  <path d="M200 320L280 240H520L600 320L550 800H250L200 320Z" fill="#0C0C10" stroke="#D3B06E" stroke-opacity="0.28" stroke-width="6"/>
+  <path d="M340 320C340 286.863 366.863 260 400 260C433.137 260 460 286.863 460 320V380H340V320Z" fill="#16161D"/>
+  <line x1="360" y1="380" x2="360" y2="800" stroke="#212129" stroke-width="6"/>
+  <line x1="440" y1="380" x2="440" y2="800" stroke="#212129" stroke-width="6"/>
+  <circle cx="360" cy="345" r="8" fill="#D3B06E"/>
+  <circle cx="440" cy="345" r="8" fill="#D3B06E"/>
+  <text x="400" y="860" text-anchor="middle" fill="#F0D59A" font-size="28" font-family="Arial, sans-serif">OBSIDIAN HOODIE</text>
+</svg>

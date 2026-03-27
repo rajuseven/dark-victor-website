@@ -1,0 +1,15 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="40" fill="#0E0E12"/>
+  <circle cx="920" cy="180" r="220" fill="#D3B06E" fill-opacity="0.08"/>
+  <circle cx="240" cy="760" r="180" fill="#D3B06E" fill-opacity="0.05"/>
+  <rect x="120" y="110" width="960" height="680" rx="36" fill="#14141A" stroke="#2C2C35"/>
+  <rect x="210" y="170" width="270" height="520" rx="26" fill="#1B1B22"/>
+  <rect x="720" y="170" width="270" height="520" rx="26" fill="#1B1B22"/>
+  <path d="M318 284C318 246 349 215 387 215C425 215 456 246 456 284V397H318V284Z" fill="#D3B06E" fill-opacity="0.18"/>
+  <rect x="288" y="397" width="198" height="244" rx="18" fill="#0B0B0F" stroke="#4A3B1B"/>
+  <path d="M813 284C813 246 844 215 882 215C920 215 951 246 951 284V397H813V284Z" fill="#D3B06E" fill-opacity="0.18"/>
+  <rect x="783" y="397" width="198" height="244" rx="18" fill="#0B0B0F" stroke="#4A3B1B"/>
+  <text x="600" y="760" text-anchor="middle" fill="#F0D59A" font-size="40" font-family="Arial, sans-serif" letter-spacing="8">
+    VICTOR &amp; DARK
+  </text>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="32" fill="#101015"/>
+  <circle cx="650" cy="180" r="140" fill="#D3B06E" fill-opacity="0.08"/>
+  <path d="M270 140H530L500 330L450 820H340L300 330L270 140Z" fill="#0B0B0F" stroke="#D3B06E" stroke-opacity="0.3" stroke-width="6"/>
+  <line x1="400" y1="140" x2="400" y2="820" stroke="#24242C" stroke-width="6"/>
+  <path d="M300 330L370 510" stroke="#292932" stroke-width="5"/>
+  <path d="M500 330L430 510" stroke="#292932" stroke-width="5"/>
+  <rect x="260" y="110" width="280" height="40" rx="14" fill="#1B1B22"/>
+  <text x="400" y="860" text-anchor="middle" fill="#F0D59A" font-size="28" font-family="Arial, sans-serif">NOIR TROUSERS</text>
+</svg>

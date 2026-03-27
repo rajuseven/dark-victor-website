@@ -1,0 +1,32 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+    container_name: victor-dark-frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - product-service
+      - order-service
+      - user-service
+
+  product-service:
+    build:
+      context: ./product-service
+    container_name: victor-dark-product-service
+    ports:
+      - "4001:4001"
+
+  order-service:
+    build:
+      context: ./order-service
+    container_name: victor-dark-order-service
+    ports:
+      - "4002:4002"
+
+  user-service:
+    build:
+      context: ./user-service
+    container_name: victor-dark-user-service
+    ports:
+      - "4003:4003"
